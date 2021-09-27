@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserCRUD.Core", "UserCRUD.C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{5D5FBC56-2F25-4437-B2B0-DCE920B19331}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Downloads\eticaret-master\docker-compose.yml = ..\..\..\Downloads\eticaret-master\docker-compose.yml
+		..\..\Downloads\eticaret-master\docker-compose.yml = ..\..\Downloads\eticaret-master\docker-compose.yml
 	EndProjectSection
 EndProject
 Global
