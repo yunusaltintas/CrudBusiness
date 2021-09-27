@@ -10,3 +10,15 @@ C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Core\obj\Debug\net5.0\Use
 C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Core\obj\Debug\net5.0\ref\UserCRUD.Core.dll
 C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.pdb
 C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.csproj.AssemblyReference.cache
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\bin\Debug\net5.0\UserCRUD.Core.deps.json
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\bin\Debug\net5.0\UserCRUD.Core.dll
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\bin\Debug\net5.0\ref\UserCRUD.Core.dll
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\bin\Debug\net5.0\UserCRUD.Core.pdb
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.csproj.AssemblyReference.cache
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.AssemblyInfoInputs.cache
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.AssemblyInfo.cs
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.csproj.CoreCompileInputs.cache
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.dll
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\ref\UserCRUD.Core.dll
+C:\Users\yunus.altintas\Desktop\Git\UserCRUD.Core\obj\Debug\net5.0\UserCRUD.Core.pdb

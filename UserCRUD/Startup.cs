@@ -70,7 +70,7 @@ namespace UserCRUD
 
             app.UseCustomException();
 
-            //context.Database.Migrate();
+            context.Database.Migrate();
             app.UseRouting();
 
             app.UseAuthentication();
