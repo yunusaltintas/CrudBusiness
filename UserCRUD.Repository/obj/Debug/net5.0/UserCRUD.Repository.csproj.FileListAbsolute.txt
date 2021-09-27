@@ -1,0 +1,17 @@
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\UserCRUD.Repository.deps.json
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\UserCRUD.Repository.dll
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\ref\UserCRUD.Repository.dll
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\UserCRUD.Repository.pdb
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\UserCRUD.Core.dll
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\UserCRUD.DATA.dll
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\UserCRUD.DATA.pdb
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\bin\Debug\net5.0\UserCRUD.Core.pdb
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.csproj.AssemblyReference.cache
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.AssemblyInfoInputs.cache
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.AssemblyInfo.cs
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.csproj.CoreCompileInputs.cache
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.csproj.CopyComplete
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.dll
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\ref\UserCRUD.Repository.dll
+C:\Users\yunus.altintas\source\repos\UserCRUD\UserCRUD.Repository\obj\Debug\net5.0\UserCRUD.Repository.pdb
